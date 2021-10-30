@@ -1,0 +1,17 @@
+.table-header{
+    width:130px !important;
+    color: #5D6875;
+    font-weight:600 !important;
+    line-height: 20px !important;
+    letter-spacing:2%;
+    text-transform:none !important;
+    padding: 6px 24px !important
+}
+
+.table-data{
+    width:130px;
+}
+
+.container{
+    width:952px !important;
+}
