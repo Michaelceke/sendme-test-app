@@ -4,15 +4,11 @@ import {
   Table,
   Thead,
   Tbody,
-  Tfoot,
   Tr,
   Th,
   Td,
-  Center,
-  Box,
   Checkbox,
   Flex,
-  Spacer,
   Badge
 } from "@chakra-ui/react";
 
