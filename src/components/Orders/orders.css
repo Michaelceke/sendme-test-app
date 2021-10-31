@@ -1,0 +1,42 @@
+.button-icon-text{
+    width:55px;
+    height:16px;
+    font-size: 8px;
+    display:block;
+    padding:2px;
+    color:#092443;
+    font-weight: bold;
+    line-height: 14px;
+}
+
+.orders-text{
+   font-weight:800;
+   color:#000000;
+   letter-spacing:0.04em;
+   font-size:30px;
+
+}
+
+.header-container{
+    padding:20px 20px 10px 20px;
+}
+.table-container{
+    padding:20px 20px 10px 20px;
+}
+
+.order-variant-button{
+    margin-right:10px;
+    color:#CB4234 !important;
+    background-color: #F1D1D1 !important;
+    border: 2px solid #F18479;
+    font-size: 12px !important;
+    line-height: 15px;
+}
+
+.order-input-search{
+    height: 35px important;
+    border-radius: 6px !important;
+    box-sizing: border-box;
+    padding: 13px 24px;
+    border: 2px solid #CCCDD5 !important;
+}
